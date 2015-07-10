@@ -1,0 +1,42 @@
+<package>
+	<id>com.supermamon.lithiumnitro</id>
+	<name>Nitro Theme Pack for Lithium</name>
+	<version>0.0.1-4</version>
+	<compatibility>
+		<firmware>
+			<min>6.0</min>
+			<max>8.4</max>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>lithium</package>
+	</dependencies>
+	<descriptionlist>
+		<description>This is a themepack for Lithium.</description>
+		<description>
+		<![CDATA[
+		It contains the following themes:<br>
+		- LN-BattHead<br>
+		- LN-Dots<br>
+		- LN-Simple<br>
+		- LN-Speedometer<br>
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<thumbnail>shot1-thumb.jpg</thumbnail>
+			<image>shot1.jpg</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Depiction changes</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Lithium Theme Maker</name>
+			<url>https://supermamon.github.io/Lithium/ThemeMaker.html</url>
+		</link>
+	</links>
+</package>
