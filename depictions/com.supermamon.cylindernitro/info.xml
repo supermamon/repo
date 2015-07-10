@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<package>
+	<id>com.supermamon.cyslindernitro</id>
+	<name>Nitro Effects Pack for Cylinder</name>
+	<version>1.0.0-1</version>
+	<compatibility>
+		<firmware>
+			<min>6.0</min>
+			<max>8.4</max>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>com.r333d.cylinder (Cylinder)</package>
+	</dependencies>
+	<descriptionlist>
+		<description>This is a Effects pack for Cylinder.</description>
+		<description>
+		<![CDATA[
+		It contains the following effects:<br />
+		- Icon Roll<br />
+		- Harlem Shake
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>

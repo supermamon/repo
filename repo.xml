@@ -1,0 +1,22 @@
+<repo>
+	<footerlinks>
+		<link>
+			<name>@supermamon on Twitter</name>
+			<url>https://twitter.com/supermamon</url>
+			<iconclass>glyphicon glyphicon-user</iconclass>
+		</link>
+		<link>
+			<name>See my open-sourced projects on Github!</name>
+			<url>https://github.com/supermamon</url>
+			<iconclass>glyphicon glyphicon-console</iconclass>
+		</link>
+		<link>
+			<name>Contribute via Paypal</name>
+			<url><![CDATA[
+			https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=BPQNBXPYB56HL&lc=US&item_name=Send%20love%20to%20@supermamon&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted
+			]]>
+			</url>
+			<iconclass>glyphicon glyphicon-heart</iconclass>
+		</link>
+	</footerlinks>
+</repo>
