@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<package>
+	<id>com.supermamon.lithiumnpsimple</id>
+	<name>Simple Battery for Lithium</name>
+	<version>1.0.0-1</version>
+	<compatibility>
+		<firmware>
+			<min>6.0</min>
+			<max>8.4</max>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>lithium</package>
+	</dependencies>
+	<descriptionlist>
+		<description>Simple Battery Theme for Lithium.</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Simple Theme</description>
+			<image>ss1.jpg</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Make your own themes!</name>
+			<url>https://supermamon.github.io/Lithium/ThemeMaker.html</url>
+		</link>
+	</links>
+</package>
