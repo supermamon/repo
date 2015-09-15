@@ -6,8 +6,24 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+  <script type="text/javascript" src="depictions/js/data-loader-engine.js"></script>
   <script src="/util/js/getRandomQuote.js"></script>
   <script type="text/javascript">
+    var contentBlocks = 	{
+    	"#packagelist" :
+			{"type":"custom"  
+				,"source" :"package"
+				,"render":function(element,source){
+					var p = $("<div class='panel panel-default'>");
+					$(p).append("<div class='panel-heading'>" + $(source).find('name').text() + "</div>")
+					var b = $('<div class="panel-body">');
+					$(b).append($(source).find('descriptionlist>description').text() + '<br /><br />')
+					$(b).append('<a class="btn btn-xs btn-default" href="depictions/?p='+ $(source).find('id').text() +'">More info</a>');
+					$(p).append($(b));					
+					$(element).append(p);
+				}
+			}
+	}
   
   $(document).ready(function(){
 	/* random quote */
@@ -20,7 +36,38 @@
 			.append(footer);
 	});
 
-  })
+	/* package list */
+    $.ajax({
+        type    : "GET",
+        dataType: "xml",
+        url     : ('repo.xml'),
+        success : function(xml){
+			var packs = $(xml).find('packages>package');
+			$.each(packs, function(idx,data){
+				bundleid = $(data).text();
+			    $.ajax({
+			        type    : "GET",
+			        dataType: "xml",
+			        url     : ('depictions/'+bundleid+'/info.xml'),
+			        success : function(xml){
+			        	data_loader_engine(contentBlocks,xml)
+			        },
+					cache   : false,
+			        error: function() {
+			        }
+			    }); //ajax
+			});
+        },
+		cache   : false,
+        error: function() {
+			console.log('>> FAIL >>');
+            //$("#packageError").show();
+			//$("#packageInformation").hide();
+        }
+    }); //ajax
+
+
+  }) //ready
   </script>
 </head>
 <body>
@@ -45,37 +92,7 @@
   <h3 id="wells" class="page-header">Hosted Packages</h3>
 </div>
 
-<div class="container">
-	<div class="panel panel-default">
-	  <div class="panel-heading">CCOldBounce</div>
-	  <div class="panel-body">
-		Use the iOS 7 Control Center bounce.<br /><br />
-		<a class="btn btn-xs btn-default" href="depictions/?p=com.supermamon.ccoldbounce">More info</a>
-	  </div>
-	</div>
-	<div class="panel panel-default">
-	  <div class="panel-heading">Nitro Effects Pack for Cylinder</div>
-	  <div class="panel-body">
-		This package contains additional effects for Cylinder.<br /><br />
-		<a class="btn btn-xs btn-default" href="depictions/?p=com.supermamon.cylindernitro">More info</a>
-	  </div>
-	</div>
-	
-	<div class="panel panel-default">
-	  <div class="panel-heading">Nitro Theme Pack for Lithium</div>
-	  <div class="panel-body">
-		Battery Theme Pack for Lithium.<br /><br />
-		<a class="btn btn-xs btn-default" href="depictions/?p=com.supermamon.lithiumnitro">More info</a>
-	  </div>
-	</div>
-	
-	<div class="panel panel-default">
-	  <div class="panel-heading">Speedometer for Lithium</div>
-	  <div class="panel-body">
-		Speedometer theme for Lithium.<br /><br />
-		<a class="btn btn-xs btn-default" href="depictions/?p=com.supermamon.speedometer4lithium">More info</a>
-	  </div>
-	</div>
+<div class="container" id="packagelist"></div>
 </div>
 
 </body>
