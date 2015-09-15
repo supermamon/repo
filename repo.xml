@@ -1,4 +1,7 @@
 <repo>
+	<footerLinksComment>
+		The links indicated below will appear at the bottom of every depiction.
+	</footerLinksComment>
 	<footerlinks>
 		<link>
 			<name>@supermamon on Twitter</name>
@@ -19,4 +22,13 @@
 			<iconclass>glyphicon glyphicon-heart</iconclass>
 		</link>
 	</footerlinks>
+	<packagesComment>
+		The bundleIDs listed below are used to load the names and description of tweaks on the repo main page.
+	</packagesComment>
+	<packages>
+		<package>com.supermamon.ccoldbounce</package>
+		<package>com.supermamon.cylindernitro</package>
+		<package>com.supermamon.lithiumnitro</package>
+		<package>com.supermamon.speedometer4lithium</package>
+	</packages>
 </repo>
