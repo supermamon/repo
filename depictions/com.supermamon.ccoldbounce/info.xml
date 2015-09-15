@@ -2,7 +2,7 @@
 <package>
 	<id>com.supermamon.ccoldbounce</id>
 	<name>CCOldBounce</name>
-	<version>1.0-1</version>
+	<version>1.0.0-1</version>
 	<compatibility>
 		<firmware>
 			<min>8.0</min>
