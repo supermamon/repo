@@ -2,7 +2,7 @@
 <package>
 	<id>com.supermamon.speedometer4lithium</id>
 	<name>Speedometer for Lithium</name>
-	<version>1.0.0-1</version>
+	<version>1.0.0-3</version>
 	<compatibility>
 		<firmware>
 			<min>6.0</min>
@@ -17,7 +17,7 @@
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
-		<change>Initial release</change>
+		<change>Minified version</change>
 	</changelog>
 	<links>
 		<link>
