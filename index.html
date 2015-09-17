@@ -10,18 +10,17 @@
   <script src="/util/js/getRandomQuote.js"></script>
   <script type="text/javascript">
     var contentBlocks = 	{
-    	"#packagelist" :
-			{"type":"custom"  
-				,"source" :"package"
-				,"render":function(element,source){
-					var p = $("<div class='panel panel-default'>");
-					$(p).append("<div class='panel-heading'>" + $(source).find('package>name').text() + "</div>")
-					var b = $('<div class="panel-body">');
-					$(b).append($(source).find('descriptionlist>description').text() + '<br /><br />')
-					$(b).append('<a class="btn btn-xs btn-default" href="depictions/?p='+ $(source).find('id').text() +'">More info</a>');
-					$(p).append($(b));					
+    	"#packageLinks" :
+			{"type":"custom"
+				,"source":"package"
+				,"render":function(element,source) {
+					var p = $("<li class='list-group-item'>");
+					var a = $("<a class='btn btn-link'>");
+					a.attr("href","depictions/?p=" + $(source).find('package>id').text());
+					$(a).append($(source).find('package>name').text());
+					$(p).append(a);
 					$(element).append(p);
-				}
+				} //render
 			}
 	}
   
@@ -92,8 +91,11 @@
   <h3 id="wells" class="page-header">Hosted Packages</h3>
 </div>
 
-<div class="container" id="packagelist"></div>
+<div class="container">
+	<ul class="list-group" id="packageLinks">
+	</ul>
 </div>
+
 
 </body>
 </html>
