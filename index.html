@@ -15,7 +15,7 @@
 				,"source" :"package"
 				,"render":function(element,source){
 					var p = $("<div class='panel panel-default'>");
-					$(p).append("<div class='panel-heading'>" + $(source).find('name').text() + "</div>")
+					$(p).append("<div class='panel-heading'>" + $(source).find('package>name').text() + "</div>")
 					var b = $('<div class="panel-body">');
 					$(b).append($(source).find('descriptionlist>description').text() + '<br /><br />')
 					$(b).append('<a class="btn btn-xs btn-default" href="depictions/?p='+ $(source).find('id').text() +'">More info</a>');
