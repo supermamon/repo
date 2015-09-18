@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<package>
+	<id>com.supermamon.nomessagesphotobutton</id>
+	<name>NoMessagesPhotoButton</name>
+	<version>1.0.0-1</version>
+	<compatibility>
+		<firmware>
+			<min>7.0</min>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<descriptionlist>
+		<description>Remove the photo button on the Message app. For whetever reason.</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links />
+</package>

@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<package>
+	<id>com.supermamon.lithiumtallbars</id>
+	<name>TallBars for Lithium</name>
+	<version>1.0.0-1</version>
+	<compatibility>
+		<firmware>
+			<min>6.0</min>
+			<max>8.4</max>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>lithium</package>
+	</dependencies>
+	<descriptionlist>
+		<description>TallBars Theme for Lithium.</description>
+	</descriptionlist>
+	<screenshots></screenshots>		
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Make your own themes!</name>
+			<url>https://supermamon.github.io/Lithium/ThemeMaker.html</url>
+		</link>
+	</links>
+</package>

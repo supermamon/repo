@@ -31,6 +31,8 @@
 		<package>com.supermamon.lithiumnitro</package>
 		<package>com.supermamon.speedometer4lithium</package>
 		<package>com.supermamon.lithiumdots</package>
+		<package>com.supermamon.lithiumtallbars</package>
 		<package>com.supermamon.lithiumnpsimple</package>
+		<package>com.supermamon.nomessagesphotobutton</package>
 	</packages>
 </repo>
