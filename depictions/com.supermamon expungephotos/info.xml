@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<package>
+	<id>com.supermamon.expungephotos</id>
+	<name>ExpungePhotos</name>
+	<version>1.0.0</version>
+	<compatibility>
+		<firmware>
+			<min>8.0</min>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description><![CDATA[
+		Deleted photos never go to the Recently Deleted album.<br/> 
+		Does not support deleting from the Camera App.
+		]]>
+ 		</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links />
+</package>
