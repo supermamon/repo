@@ -11,9 +11,10 @@
 	<dependencies></dependencies>
 	<descriptionlist>
 		<description><![CDATA[
-		 Change the No Notifications text message.<br>
-     Use \n to create multiple lines.
-		]]>
+ Change the No Notifications text message.<br>
+ Use \n to create multiple lines. <br>
+ Use {time} to insert the date/time.		
+    ]]>
  		</description>
 	</descriptionlist>
 	<screenshots>
