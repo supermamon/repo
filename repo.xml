@@ -35,5 +35,6 @@
 		<package>com.supermamon.lithiumnpsimple</package>
 		<package>com.supermamon.nomessagesphotobutton</package>
 		<package>com.supermamon.expungephotos</package>		
+		<package>com.supermamon.fbenableprofilevideo</package>				
 	</packages>
 </repo>
