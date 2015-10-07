@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<package>
+	<id>com.supermamon.cleanamrc</id>
+	<name>CleanAMRC</name>
+	<version>1.0.0</version>
+	<compatibility></compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Cleaner AMRC UI</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Settings Page</description>
+			<image>settings.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description>Subreddit list</description>
+			<image>subs.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description>Posts List</description>
+			<image>posts.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description>amrc Sidebar</description>
+			<image>side.jpg</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links />
+</package>
