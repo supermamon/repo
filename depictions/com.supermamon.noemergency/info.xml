@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<package>
+	<id>com.supermamon.noemergency</id>
+	<name>NoEmergency</name>
+	<version>1.0.0</version>
+	<compatibility>
+		<firmware>
+			<min>7.0</min>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Hide the Emergency button on the Passcode screen</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links />
+</package>
