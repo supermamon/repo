@@ -16,7 +16,7 @@
 		<link>
 			<name>Contribute via Paypal</name>
 			<url><![CDATA[
-			https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=BPQNBXPYB56HL&lc=US&item_name=Contribute%20to%20@supermamon&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted
+			https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=L4W8CAMYKGRNU
 			]]>
 			</url>
 			<iconclass>glyphicon glyphicon-heart</iconclass>
