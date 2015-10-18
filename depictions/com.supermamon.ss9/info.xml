@@ -2,11 +2,18 @@
 <package>
 	<id>com.supermamon.ss9</id>
 	<name>SimpleSwitcher 9</name>
-	<version>1.0~beta-2</version>
+	<version>1.0~beta-9</version>
 	<compatibility></compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
-		<description>Speed up the iOS 9 switcher by disabling unnecessary stuff.</description>
+		<description><![CDATA[
+		Speed up the iOS 9 switcher by disabling unnecessary stuff.
+		Features
+		* Hide Blurs
+		* Hide Icons
+		* Hide Snapshots
+		* Hide Backround Blur
+		]]></description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
@@ -19,7 +26,7 @@
 		</screenshot>		
 	</screenshots>
 	<changelog>
-		<change>Initial Beta Release</change>
+		<change>Bugfix: First 3 options still applied even if disabled.</change>
 	</changelog>
 	<links />
 </package>
