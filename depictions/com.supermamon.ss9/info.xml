@@ -1,8 +1,8 @@
 <?xml version="1.0" ?>
 <package>
 	<id>com.supermamon.ss9</id>
-	<name>SimpleSwitcher 9</name>
-	<version>1.0~beta-9</version>
+	<name>Switcher Speedster</name>
+	<version>1.0~beta-10</version>
 	<compatibility></compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
@@ -11,7 +11,7 @@
 		Features<br>
 		* Hide Blurs<br>
 		* Hide Icons<br>
-		* Custom Backround Blur<br></br>
+		* Custom Backround Blur<br><
 		* Custom Springboard Card Blur<br>
 		* Custom App Card Alpha<br>
 		]]></description>
@@ -20,14 +20,14 @@
 		<screenshot>
 			<description>Settings Page</description>
 			<image>settings.PNG</image>
-		</screenshot>		
+		</screenshot>
 		<screenshot>
 			<description>Switcher Preview</description>
 			<image>switcher.PNG</image>
-		</screenshot>		
+		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>Bugfix: First 3 options still applied even if disabled.</change>
+		<change>Added options for blur and alpha.</change>
 	</changelog>
 	<links />
 </package>
