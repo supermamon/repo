@@ -7,12 +7,13 @@
 	<dependencies></dependencies>
 	<descriptionlist>
 		<description><![CDATA[
-		Speed up the iOS 9 switcher by disabling unnecessary stuff.<br>
+		Speed up the iOS 9 switcher.<br>
 		Features<br>
 		* Hide Blurs<br>
 		* Hide Icons<br>
-		* Hide Snapshots<br>
-		* Hide Backround Blur<br>
+		* Custom Backround Blur<br></br>
+		* Custom Springboard Card Blur<br>
+		* Custom App Card Alpha<br>
 		]]></description>
 	</descriptionlist>
 	<screenshots>
