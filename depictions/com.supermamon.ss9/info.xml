@@ -2,7 +2,7 @@
 <package>
 	<id>com.supermamon.ss9</id>
 	<name>Switcher Speedster</name>
-	<version>1.0~beta-10</version>
+	<version>1.0~beta-11</version>
 	<compatibility></compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
@@ -11,7 +11,7 @@
 		Features<br>
 		* Hide Blurs<br>
 		* Hide Icons<br>
-		* Custom Backround Blur<br><
+		* Custom Backround Blur<br>
 		* Custom Springboard Card Blur<br>
 		* Custom App Card Alpha<br>
 		]]></description>

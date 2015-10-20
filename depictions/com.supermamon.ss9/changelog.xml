@@ -1,5 +1,9 @@
 <changelog>
 	<changes>
+		<version>1.0~beta-11</version>
+		<change>Minor fix.</change>
+	</changes>
+	<changes>
 		<version>1.0~beta-10</version>
 		<change>Added options for blur and alpha.</change>
 	</changes>
