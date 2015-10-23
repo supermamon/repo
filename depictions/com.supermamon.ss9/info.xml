@@ -2,7 +2,7 @@
 <package>
 	<id>com.supermamon.ss9</id>
 	<name>Switcher Speedster</name>
-	<version>1.0~beta-11</version>
+	<version>1.1~beta-1</version>
 	<compatibility></compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
@@ -27,7 +27,7 @@
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>Added options for blur and alpha.</change>
+		<change>Just a preference panel revamp. Fixes iPad centering.</change>
 	</changelog>
 	<links />
 </package>
