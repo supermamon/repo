@@ -1,5 +1,14 @@
 <changelog>
 	<changes>
+		<version>1.1~beta-4</version>
+		<change><![CDATA[
+    Downscaling should now work for new devices.
+    <br>
+    Known issue: SB flash bug on 32-bit devices (probably). Previously though it was for iPads.
+    ]]>
+    </change>
+	</changes>
+	<changes>
 		<version>1.1~beta-3</version>
 		<change><![CDATA[
     Added experimental app card snapshot downscaling.<br>
