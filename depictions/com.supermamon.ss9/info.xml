@@ -28,10 +28,10 @@
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>><![CDATA[
+		<change><![CDATA[
     Downscaling should now work for new devices.
     <br>
-    Known issue: SB flash bug on 32-bit devices (probably). Previously though it was for iPads.
+    Known issue: SB flash bug on 32-bit devices (probably). Previously thought it was for iPads.
     ]]></change>
 	</changelog>
 	<links />
