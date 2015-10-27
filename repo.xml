@@ -40,5 +40,6 @@
 		<package>com.supermamon.ss9</package>
     <package>com.supermamon.codetidy</package>
     <package>com.supermamon.photopackrat</package>
+    <package>com.supermamon.cleanamrc</package>
 	</packages>
 </repo>

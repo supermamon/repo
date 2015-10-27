@@ -6,7 +6,11 @@
 	<compatibility></compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
-		<description>Cleaner AMRC UI</description>
+		<description><![CDATA[
+      A UI customizer for amrc - the fastest reddit client.<br>
+      Download amrc from the App Store. 
+    ]]>
+    </description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
