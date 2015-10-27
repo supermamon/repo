@@ -2,7 +2,7 @@
 <package>
 	<id>com.supermamon.cleanamrc</id>
 	<name>CleanAMRC</name>
-	<version>1.0.0</version>
+	<version>1.0.2~beta-1</version>
 	<compatibility></compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
@@ -27,7 +27,7 @@
 		</screenshot>		
 	</screenshots>
 	<changelog>
-		<change>Initial release</change>
+		<change>Minor bugfix</change>
 	</changelog>
 	<links />
 </package>
