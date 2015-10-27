@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<package>
+	<id>com.supermamon.photopackrat</id>
+	<name>PhotoPackRat</name>
+	<version>0.0.1</version>
+	<compatibility>
+		<firmware>
+			<min>9.0</min>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<descriptionlist>
+		<description><![CDATA[
+Prevent deleting of photos. <br>
+Perfect for keeping children (well adults too) from deleting your photos.<br>
+Request by /u/icloudbug
+		]]></description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links />
+</package>

@@ -38,5 +38,7 @@
 		<package>com.supermamon.fbenableprofilevideo</package>
 		<package>com.supermamon.customnono</package>				
 		<package>com.supermamon.ss9</package>
+    <package>com.supermamon.codetidy</package>
+    <package>com.supermamon.photopackrat</package>
 	</packages>
 </repo>
