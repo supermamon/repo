@@ -26,20 +26,21 @@
 		The bundleIDs listed below are used to load the names and description of tweaks on the repo main page.
 	</packagesComment>
 	<packages>
+    <package>com.supermamon.nctabcolor</package>
+    <package>com.supermamon.cleanamrc</package>
+    <package>com.supermamon.ss9</package>
+    <package>com.supermamon.codetidy</package>
 		<package>com.supermamon.ccoldbounce</package>
+    <package>com.supermamon.customnono</package>
+    <package>com.supermamon.photopackrat</package>
+    <package>com.supermamon.fbenableprofilevideo</package>
+    <package>com.supermamon.nomessagesphotobutton</package>
+    <package>com.supermamon.expungephotos</package>
 		<package>com.supermamon.cylindernitro</package>
 		<package>com.supermamon.lithiumnitro</package>
 		<package>com.supermamon.speedometer4lithium</package>
 		<package>com.supermamon.lithiumdots</package>
 		<package>com.supermamon.lithiumtallbars</package>
 		<package>com.supermamon.lithiumnpsimple</package>
-		<package>com.supermamon.nomessagesphotobutton</package>
-		<package>com.supermamon.expungephotos</package>		
-		<package>com.supermamon.fbenableprofilevideo</package>
-		<package>com.supermamon.customnono</package>				
-		<package>com.supermamon.ss9</package>
-    <package>com.supermamon.codetidy</package>
-    <package>com.supermamon.photopackrat</package>
-    <package>com.supermamon.cleanamrc</package>
 	</packages>
 </repo>

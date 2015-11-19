@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <package>
 	<id>com.supermamon.codetidy</id>
-	<name>NoMessagesPhotoButton</name>
+	<name>CodeTidy</name>
 	<version>0.0.1-10</version>
 	<compatibility>
 		<firmware>

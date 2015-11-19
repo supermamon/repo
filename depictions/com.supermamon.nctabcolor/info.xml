@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<package>
+	<id>com.supermamon.nctabcolor</id>
+	<name>NCTabColor</name>
+	<version>1.0.1</version>
+	<compatibility>
+		<firmware>
+			<min>9.0</min>
+		</firmware>
+  </compatibility>
+	<dependencies>libcolorpicker</dependencies>
+	<descriptionlist>
+		<description>Colorize the Notification Center tabs.</description>
+    <description><![CDATA[
+Source code can be found on <a href="https://github.com/supermamon/NCTabColor">GitHub</a>.
+    ]]>
+    </description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Settings and Preview</description>
+			<image>screenshot1.png</image>
+		</screenshot>
+</screenshots>
+	<changelog>
+		<change>Added dependencies in the control file</change>
+	</changelog>
+	<links />
+</package>

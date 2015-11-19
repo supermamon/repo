@@ -1,0 +1,14 @@
+<changelog>
+	<changes>
+		<version>1.0.2</version>
+		<change>Added dependencies in the control file</change>
+	</changes>
+	<changes>
+		<version>1.0.1</version>
+		<change>A little cleanup on the preference bundle</change>
+	</changes>
+	<changes>
+		<version>1.0.0</version>
+		<change>Initial Release</change>
+	</changes>
+</changelog>
