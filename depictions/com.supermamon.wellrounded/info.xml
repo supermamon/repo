@@ -2,7 +2,7 @@
 <package>
 	<id>com.supermamon.wellrounded</id>
 	<name>WellRounded</name>
-	<version>1.0.0~beta-1</version>
+	<version>1.0.0~beta-2</version>
 	<compatibility>
 		<firmware>
 			<min>9.0</min>
@@ -14,7 +14,7 @@
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
-		<change>Initial release</change>
+		<change>Updated control file</change>
 	</changelog>
 	<links />
 </package>
