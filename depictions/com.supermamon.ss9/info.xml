@@ -2,7 +2,7 @@
 <package>
 	<id>com.supermamon.ss9</id>
 	<name>Switcher Speedster</name>
-	<version>1.1~beta-4</version>
+	<version>1.2~beta-1</version>
 	<compatibility></compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
@@ -29,10 +29,11 @@
 	</screenshots>
 	<changelog>
 		<change><![CDATA[
-    Downscaling should now work for new devices.
+    Localization support.
     <br>
-    Known issue: SB flash bug on 32-bit devices (probably). Previously thought it was for iPads.
-    ]]></change>
+    You can help translate by downloading the template from <a href="https://github.com/supermamon/TweakLocalizations/">Github</a>.
+    ]]>
+    </change>
 	</changelog>
 	<links />
 </package>
