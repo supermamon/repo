@@ -2,7 +2,7 @@
 <package>
 	<id>com.supermamon.ss9</id>
 	<name>Switcher Speedster</name>
-	<version>1.2~beta-1</version>
+	<version>1.2~beta-11+debug</version>
 	<compatibility></compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
@@ -11,10 +11,11 @@
 		Features<br>
 		* Hide Blurs<br>
 		* Hide Icons<br>
+		* Remove Dismiss Animation
 		* Custom Backround Blur<br>
 		* Custom Springboard Card Blur<br>
 		* Custom App Card Alpha<br>
-    * App Card Downscaling (Experimental)
+    * App Card Downscaling
 		]]></description>
 	</descriptionlist>
 	<screenshots>
@@ -29,9 +30,7 @@
 	</screenshots>
 	<changelog>
 		<change><![CDATA[
-    Localization support.
-    <br>
-    You can help translate by downloading the template from <a href="https://github.com/supermamon/TweakLocalizations/">Github</a>.
+    Added No Dismiss Animation.
     ]]>
     </change>
 	</changelog>

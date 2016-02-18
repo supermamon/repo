@@ -1,5 +1,12 @@
 <changelog>
 	<changes>
+		<version>1.2~beta-11+debug</version>
+		<change><![CDATA[
+    Added No Dismiss Animation.
+    ]]>
+    </change>
+	</changes>
+	<changes>
 		<version>1.2~beta-1</version>
 		<change><![CDATA[
     Localization support.
