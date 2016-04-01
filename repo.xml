@@ -26,6 +26,8 @@
 		The bundleIDs listed below are used to load the names and description of tweaks on the repo main page.
 	</packagesComment>
 	<packages>
+    <package>com.supermamon.adrenaline</package>
+    <package>com.supermamon.nctabcolor</package>
     <package>com.supermamon.wellrounded</package>
     <package>com.supermamon.nctabcolor</package>
     <package>com.supermamon.cleanamrc</package>
