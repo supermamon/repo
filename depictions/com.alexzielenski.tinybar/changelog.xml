@@ -1,0 +1,6 @@
+<changelog>
+	<changes>
+		<version>0.1.5</version>
+		<change>fix for iOS 9.2+</change>
+	</changes>
+</changelog>
