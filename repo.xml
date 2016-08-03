@@ -15,10 +15,7 @@
 		</link>
 		<link>
 			<name>Contribute via Paypal</name>
-			<url><![CDATA[
-			https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=L4W8CAMYKGRNU
-			]]>
-			</url>
+			<url>https://paypal.me/monvelasquez</url>
 			<iconclass>glyphicon glyphicon-heart</iconclass>
 		</link>
 	</footerlinks>
