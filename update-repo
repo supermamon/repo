@@ -1,7 +1,13 @@
+#!/bin/bash
 
 pushd ~/code/repo
-git checkout master
+
+git checkout gh-pages
 rm Packages.bz2
 dpkg-scanpackages -m ./debs/ /dev/null >Packages
 bzip2 Packages
+git add --all
+git commit -m "$*"
+git push origin gh-pages
+
 popd 
