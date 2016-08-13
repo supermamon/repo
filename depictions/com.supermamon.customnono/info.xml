@@ -2,7 +2,7 @@
 <package>
   <id>com.supermamon.customnono</id>
   <name>Custom No Notifications</name>
-  <version>1.1.0</version>
+  <version>1.1.1</version>
   <compatibility>
     <firmware>
       <min>9.0</min>
