@@ -1,30 +1,31 @@
 <?xml version="1.0" ?>
 <package>
-	<id>com.supermamon.customnono</id>
-	<name>Custom No Notifications</name>
-	<version>1.0.0</version>
-	<compatibility>
-		<firmware>
-			<min>8.0</min>
-		</firmware>
-	</compatibility>
-	<dependencies></dependencies>
-	<descriptionlist>
-		<description><![CDATA[
- Change the No Notifications text message.<br>
+  <id>com.supermamon.customnono</id>
+  <name>Custom No Notifications</name>
+  <version>1.1.0</version>
+  <compatibility>
+    <firmware>
+      <min>9.0</min>
+      <max>9.3.3</max>"
+    </firmware>
+  </compatibility>
+  <dependencies></dependencies>
+  <descriptionlist>
+    <description><![CDATA[
+ Change the "No Notifications" text message.<br>
  Use \n to create multiple lines. <br>
- Use {time} to insert the date/time.		
     ]]>
- 		</description>
-	</descriptionlist>
-	<screenshots>
-		<screenshot>
-			<description>Sample NC message.</description>
-			<image>nc.png</image>
-		</screenshot>		
-		</screenshots>
-	<changelog>
-		<change>Initial release</change>
-	</changelog>
-	<links />
+     </description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Sample NC message.</description>
+      <image>nc.png</image>
+    </screenshot>
+    </screenshots>
+  <changelog>
+  		<change>Drop iOS8 compatibility</change>
+  		<change>Temporarily removed {time} variable</change>
+  </changelog>
+  <links />
 </package>
