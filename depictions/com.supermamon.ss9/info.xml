@@ -1,38 +1,39 @@
 <?xml version="1.0" ?>
 <package>
-	<id>com.supermamon.ss9</id>
-	<name>Switcher Speedster</name>
-	<version>1.2~beta-11+debug</version>
-	<compatibility></compatibility>
-	<dependencies></dependencies>
-	<descriptionlist>
-		<description><![CDATA[
-		Speed up the iOS 9 switcher.<br>
-		Features<br>
-		* Hide Blurs<br>
-		* Hide Icons<br>
-		* Remove Dismiss Animation
-		* Custom Backround Blur<br>
-		* Custom Springboard Card Blur<br>
-		* Custom App Card Alpha<br>
-    * App Card Downscaling
-		]]></description>
-	</descriptionlist>
-	<screenshots>
-		<screenshot>
-			<description>Settings Page</description>
-			<image>settings.PNG</image>
-		</screenshot>
-		<screenshot>
-			<description>Switcher Preview</description>
-			<image>switcher.PNG</image>
-		</screenshot>
-	</screenshots>
-	<changelog>
-		<change><![CDATA[
-    Added No Dismiss Animation.
+  <id>com.supermamon.ss9</id>
+  <name>Switcher Speedster</name>
+  <version>1.2.0</version>
+  <compatibility></compatibility>
+  <dependencies></dependencies>
+  <descriptionlist>
+    <description><![CDATA[
+    Speed up the iOS 9 switcher.<br>
+    Features<br>
+    * Hide Blurs<br>
+    * Hide Icons<br>
+    * Remove Dismiss Animation
+    * Custom Backround Blur<br>
+    * Custom Springboard Card Blur<br>
+    * Custom App Card Alpha<br>
+      * App Card Downscaling
+      * No Dismiss Scroll
+    ]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Settings Page</description>
+      <image>settings.PNG</image>
+    </screenshot>
+    <screenshot>
+      <description>Switcher Preview</description>
+      <image>switcher.PNG</image>
+    </screenshot>
+  </screenshots>
+<changelog>
+    <change><![CDATA[
+      BigBoss release
     ]]>
     </change>
-	</changelog>
-	<links />
+  </changelog>
+  <links />
 </package>
