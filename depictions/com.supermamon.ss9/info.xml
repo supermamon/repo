@@ -2,7 +2,7 @@
 <package>
   <id>com.supermamon.ss9</id>
   <name>Switcher Speedster</name>
-  <version>1.2.0</version>
+  <version>1.3.0</version>
   <compatibility></compatibility>
   <dependencies></dependencies>
   <descriptionlist>
@@ -11,22 +11,21 @@
     Features<br>
     * Hide Blurs<br>
     * Hide Icons<br>
-    * Remove Dismiss Animation
     * Custom Backround Blur<br>
     * Custom Springboard Card Blur<br>
     * Custom App Card Alpha<br>
-      * App Card Downscaling
-      * No Dismiss Scroll
+    * App Card Downscaling<br>
+    * No Dismiss Scroll<br>
     ]]></description>
   </descriptionlist>
   <screenshots>
     <screenshot>
       <description>Settings Page</description>
-      <image>settings.PNG</image>
+      <image>Settings.PNG</image>
     </screenshot>
     <screenshot>
       <description>Switcher Preview</description>
-      <image>switcher.PNG</image>
+      <image>Switcher.PNG</image>
     </screenshot>
   </screenshots>
 <changelog>
