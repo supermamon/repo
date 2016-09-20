@@ -3,11 +3,15 @@
 #pushd ~/code/repo
 
 git checkout gh-pages
-rm Packages.bz2
+echo ">> Deleting old packages list"
+rm -f Packages.bz2
+echo ">> Generating new packages list"
 dpkg-scanpackages -m ./debs/ /dev/null >Packages
 bzip2 Packages
+echo ">> Uploading changes..."
 git add --all
 git commit -m "$*"
 git push origin gh-pages
+echo ">> Done"
 
 #popd 
