@@ -1,6 +1,6 @@
 #!/bin/bash
 
-pushd ~/code/repo
+#pushd ~/code/repo
 
 git checkout gh-pages
 rm Packages.bz2
@@ -10,4 +10,4 @@ git add --all
 git commit -m "$*"
 git push origin gh-pages
 
-popd 
+#popd 
