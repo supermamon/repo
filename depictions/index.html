@@ -28,8 +28,8 @@
 			{"type":"custom"
 				,"source":"package>name"
 				,"render":function(element,source){
-					if (navigator.userAgent.search(/Cydia/) != -1) {
-						$(element).hide();
+					if (navigator.userAgent.search(/Cydia/) == -1) {
+						$(element).show();
 					}
 				}
 			}
@@ -143,7 +143,7 @@
 
 <div id="packageInformation">
 
-	<div id="packageHeader" class="container">
+	<div id="packageHeader" class="container" style="display:none">
 		<div class="jumbotron">
 			<h1 id="packageName"></h1>
 			<p>brought to you by /supermamon/</p>
