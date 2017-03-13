@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<package>
+	<id>com.supermamon.noemergency</id>
+	<name>Reboot Flipswitch</name>
+	<version>1.0.2</version>
+	<compatibility>
+		<firmware>
+			<min>8.4</min>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>A reboot flipswitch</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Updated for iOS 10</change>
+                <change>Added confirmation before reboot</change>
+                <change>Hold on the the switch to reboot without confirmation</change>
+	</changelog>
+	<links />
+</package>
