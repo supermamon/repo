@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <package>
-	<id>com.supermamon.noemergency</id>
+	<id>com.supermamon.fsreboot</id>
 	<name>Reboot Flipswitch</name>
 	<version>1.0.2</version>
 	<compatibility>
