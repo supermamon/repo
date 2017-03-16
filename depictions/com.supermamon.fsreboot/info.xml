@@ -2,7 +2,7 @@
 <package>
 	<id>com.supermamon.fsreboot</id>
 	<name>Reboot Flipswitch</name>
-	<version>1.1.0</version>
+	<version>1.1.1</version>
 	<compatibility>
 		<firmware>
 			<min>8.4</min>
@@ -14,7 +14,7 @@
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
-		<change>Added preference panel</change>
+		<change>Bugfix with confirmation</change>
 	</changelog>
 	<links />
 </package>
