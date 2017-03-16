@@ -2,7 +2,7 @@
 <package>
 	<id>com.supermamon.fsreboot</id>
 	<name>Reboot Flipswitch</name>
-	<version>1.0.2</version>
+	<version>1.1.0</version>
 	<compatibility>
 		<firmware>
 			<min>8.4</min>
@@ -14,9 +14,7 @@
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
-		<change>Updated for iOS 10</change>
-                <change>Added confirmation before reboot</change>
-                <change>Hold on the the switch to reboot without confirmation</change>
+		<change>Added preference panel</change>
 	</changelog>
 	<links />
 </package>

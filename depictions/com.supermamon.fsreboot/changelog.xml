@@ -1,10 +1,14 @@
 <changelog>
-        <changes>
+    <changes>
+		<version>1.1.0</version>
+		<change>Added preference panel</change>
+    </changes>
+    <changes>
 		<version>1.0.2</version>
 		<change>Updated for iOS 10</change>
 		<change>Added confirmation before reboot</change>
 		<change>Hold on to the switch to reboot instantly without confirmation</change>
-        </changes>
+    </changes>
 	<changes>
 		<version>1.0.0</version>
 		<change>Initial Release</change>
