@@ -1,0 +1,642 @@
+Package: com.supermamon.adrenaline
+Version: 1.0.0~beta-20+debug
+Architecture: iphoneos-arm
+Maintainer: Raymond Velasquez <at.supermamon@gmail.com>
+Installed-Size: 776
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker, firmware(>=9.0)
+Filename: ./debs/com.supermamon.adrenaline_1.0.0~beta-20+debug_iphoneos-arm.deb
+Size: 134046
+MD5sum: b5885dd0d2ead3cf15910e7a452864f6
+SHA1: d200a05fe49c5820803959307ecd584d9918caa6
+SHA256: 0d078caebfb6348ef39835f2ab3f4be92ee456f5308b1f4f0c85b0fc35b7016d
+Section: Tweaks
+Description: Fresh colors for the Health App
+Author: Raymond Velasquez <at.supermamon@gmail.com>
+Name: Adrenaline
+
+Package: com.supermamon.ccoldbounce
+Version: 1.0.0-1
+Architecture: iphoneos-arm
+Maintainer: Raymond Velasquez <at.supermamon@gmail.com>
+Installed-Size: 88
+Depends: firmware (>=8.0), mobilesubstrate
+Filename: ./debs/com.supermamon.ccoldbounce_1.0.0-1_iphoneos-arm.deb
+Size: 3020
+MD5sum: 28bbf7a9e5865ba084da425917d3eba8
+SHA1: 2301d57da3b1ba6ba440ecb573843f2e2463c9a0
+SHA256: adfd231ec0041fb59a07bde3a14bc9c11d66c925d1ca3e5630435d6fea4b9af4
+Section: Tweaks
+Description: Use the iOS 7 Control Center bounce.
+Author: Raymond Velasquez <at.supermamon@gmail.com>
+Depiction: https://supermamon.github.io/repo/depictions/?p=com.supermamon.ccoldbounce
+Name: CCOldBounce
+
+Package: com.supermamon.cleanamrc
+Version: 1.1.0~beta-2
+Architecture: iphoneos-arm
+Maintainer: Raymond Velasquez <at.supermamon@gmail.com>
+Installed-Size: 670
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: ./debs/com.supermamon.cleanamrc_1.1.0~beta-2_iphoneos-arm.deb
+Size: 235392
+MD5sum: 569bf2193420daeffecb9b965d300f04
+SHA1: 40e46e2431d4898d35cf7f7b3a8514b2d9bd330e
+SHA256: cd1311d2300da745a93d412712ac743827a8f29b58a798f41bd5d8650bda022a
+Section: Tweaks
+Description: A UI customizer for amrc - the fastest reddit client.
+  Download amrc from the App Store.
+Author: Raymond Velasquez <at.supermamon@gmail.com>
+Depiction: https://supermamon.github.io/repo/depictions/?p=com.supermamon.cleanamrc
+Name: CleanAMRC
+
+Package: com.supermamon.codetidy
+Version: 0.0.1-10
+Architecture: iphoneos-arm
+Maintainer: Raymond Velasquez <at.supermamon@gmail.com>
+Installed-Size: 366
+Depends: mobilesubstrate
+Filename: ./debs/com.supermamon.codetidy_0.0.1-10_iphoneos-arm.deb
+Size: 101322
+MD5sum: 8306dfe15556ed4c92907b9bf221c316
+SHA1: a6ef7f02730671714f70b23d267aff89c71df53a
+SHA256: 5e98148316242ef020ffec09f4495a8a519c1b8058aad908dfad369e899b41ef
+Section: Tweaks
+Description: Hide items on the Passcode Screen.
+ Request by /u/ajjasper792
+Author: Raymond Velasquez <at.supermamon@gmail.com>
+Depiction: https://supermamon.github.io/repo/depictions/?p=com.supermamon.codetidy
+Name: CodeTidy
+
+Package: com.supermamon.customnono
+Version: 1.1.0
+Architecture: iphoneos-arm
+Maintainer: supermamon <at.supermamon@gmail.com>
+Installed-Size: 452
+Depends: mobilesubstrate, firmware (>= 9.0), firmware (<= 9.3.3)
+Filename: ./debs/com.supermamon.customnono_1.1.0_iphoneos-arm.deb
+Size: 13624
+MD5sum: 4a9bf6efd112a4853d447f71e89f4d69
+SHA1: 70976d7c69f556a14ce287d16dcbfd3b43a7e1ce
+SHA256: b615261afdcb478ad44ca9489213027a8bcab414c931c36b0754ec64a5b6b7dc
+Section: Tweaks
+Description: Customize the "No Notifications" text
+Author: supermamon <at.supermamon@gmail.com>
+Depiction: http://supermamon.com/repo/depictions/?com.supermamon.customnono
+Name: Custom No Notifications
+
+Package: com.supermamon.customnono
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: supermamon <at.supermamon@gmail.com>
+Installed-Size: 452
+Depends: mobilesubstrate, firmware (>= 9.0), firmware (<= 9.3.3)
+Filename: ./debs/com.supermamon.customnono_1.1.1_iphoneos-arm.deb
+Size: 13634
+MD5sum: f0681c4e14d75b655746448d93f499d2
+SHA1: 52dfc62fc63d4bee2f277d7461ad2ba668affcf2
+SHA256: 9c55124f127d07d01e1ec609d877db7f25e7a10575759cfc4d3e28cdcbc89c65
+Section: Tweaks
+Description: Customize the "No Notifications" text
+Author: supermamon <at.supermamon@gmail.com>
+Depiction: http://supermamon.com/repo/depictions/?p=com.supermamon.customnono
+Name: Custom No Notifications
+
+Package: com.supermamon.customnono
+Version: 1.2.0~beta-2
+Architecture: iphoneos-arm
+Maintainer: supermamon <at.supermamon@gmail.com>
+Installed-Size: 488
+Depends: mobilesubstrate, firmware (>= 9.0), firmware (<= 9.3.3)
+Filename: ./debs/com.supermamon.customnono_1.2.0~beta-2_iphoneos-arm.deb
+Size: 23550
+MD5sum: 68d19f6f19af17294ed3719dc69c1680
+SHA1: 8db1929f1bd3d5757ae6957f2483461275dbc644
+SHA256: 50d07f4c28bd31aa91adf2eb5e954a303acddaf661a24b838b5648413038ab64
+Section: Tweaks
+Description: Customize the "No Notifications" text
+Author: supermamon <at.supermamon@gmail.com>
+Depiction: http://supermamon.com/repo/depictions/?p=com.supermamon.customnono
+Name: Custom No Notifications
+
+Package: com.supermamon.cyclebluetoothswitch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: supermamon <at.supermamon@gmail.com>
+Installed-Size: 144
+Depends: mobilesubstrate, com.a3tweaks.flipswitch
+Filename: ./debs/com.supermamon.cyclebluetoothswitch_0.0.1_iphoneos-arm.deb
+Size: 7670
+MD5sum: 0f17a5db94ceae82b2282d1522ce4d3b
+SHA1: 852e1b17b434aebce09fba67113c834df07cd47f
+SHA256: 397ae3835a28b753883e61e127877d5a6ab89559fc22c26f9e76adf2da5b6357
+Section: Addons (Flipswitch)
+Priority: optional
+Description: CycleBluetoothSwitch
+Author: supermamon <at.supermamon@gmail.com>
+Name: CycleBluetoothSwitch
+
+Package: com.supermamon.cykeepaliveoninstall
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: supermamon <at.supermamon@gmail.com>
+Installed-Size: 133
+Depends: mobilesubstrate
+Filename: ./debs/com.supermamon.cykeepaliveoninstall_0.0.1_iphoneos-arm.deb
+Size: 137744
+MD5sum: 0b5ccecd3c731a16029d2a69c4e5a3d4
+SHA1: 66779bf0e0aa79a6d4606b21e1af70ca0078cfd7
+SHA256: aa08192b9cb08e34dcb94aa271756cbbd8c2eba8ae029250dfe0cddb2244eb3b
+Section: Tweaks
+Description: Disable device locking when installing tweaks.
+Author: supermamon <at.supermamon@gmail.com>
+Name: CyKeepAliveOnInstall
+
+Package: com.supermamon.cylastrefreshed
+Version: 0.0.3
+Architecture: iphoneos-arm
+Maintainer: supermamon <at.supermamon@gmail.com>
+Installed-Size: 197
+Depends: mobilesubstrate
+Filename: ./debs/com.supermamon.cylastrefreshed_0.0.3_iphoneos-arm.deb
+Size: 203794
+MD5sum: 1785ff04c045005a20cbba997067ce50
+SHA1: 9642f3986aeb1c82128ac7315840a96bd593f3a1
+SHA256: e3b2c01333f937128d4d76f1428376f360fdb59394848b925ede262c28ec5f88
+Section: Tweaks
+Description: Show the date/time when the changes tab was last refreshed.
+Author: supermamon <at.supermamon@gmail.com>
+Name: CyLastRefreshed
+
+Package: com.supermamon.cylindernitro
+Version: 1.0.0-1
+Architecture: iphoneos-arm
+Maintainer: supermamon <at.supermamon@gmail.com>
+Depends: com.r333d.cylinder
+Filename: ./debs/com.supermamon.cylindernitro_1.0.0-1_iphoneos-arm.deb
+Size: 6390
+MD5sum: 6141273879600da6d646924c716a622a
+SHA1: 501bd8ae5ec81edb351062515211f86aef567580
+SHA256: 262953e24c620a1a35cb3d5341cc4e9bda085cbc75fffa1e8f5d64bbf3cdedcc
+Section: Addons (Cylinder)
+Description: More cool effects for the Cylinder Tweak
+Author: supermamon <at.supermamon@gmail.com>
+Depiction: https://supermamon.github.io/repo/depictions/CylinderNitro/index.html
+Name: Cylinder Nitro
+
+Package: com.supermamon.cyquickrespring
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: supermamon <at.supermamon@gmail.com>
+Installed-Size: 197
+Depends: mobilesubstrate
+Filename: ./debs/com.supermamon.cyquickrespring_0.0.1-1_iphoneos-arm.deb
+Size: 205334
+MD5sum: ea3c405af8ee1b27f6bc150e32d723ec
+SHA1: 98ba24f143b74657f84621feda0692651ae4caf8
+SHA256: 6ac619920ec8019f0e7d38e9730cf05ef7c7f9e47406f887f2d98c826c24e49b
+Section: Tweaks
+Description: Pressing Reload/Restart Springboard resprings immediately.
+Author: supermamon <at.supermamon@gmail.com>
+Name: CyQuickRespring
+
+Package: com.supermamon.cyuicachewhenneeded
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: supermamon <at.supermamon@gmail.com>
+Installed-Size: 134
+Depends: mobilesubstrate
+Filename: ./debs/com.supermamon.cyuicachewhenneeded_0.0.1_iphoneos-arm.deb
+Size: 139574
+MD5sum: 5bd3a5a4343105b3c3ccb4bb8a626f0c
+SHA1: 2df72c71b67256f86f9af22026eda745d36cb53b
+SHA256: a238bb6838a4c7d8e876dee19a7dea4502cd565f5706c825095705e61a8d137e
+Section: Tweaks
+Description: Tell Cydia to only execute uicache after tweak installation if needed.
+Author: supermamon <at.supermamon@gmail.com>
+Name: CyUicacheWhenNeeded
+
+Package: com.supermamon.deleteforeverswitch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: supermamon <at.supermamon@gmail.com>
+Installed-Size: 140
+Depends: mobilesubstrate, com.a3tweaks.flipswitch
+Filename: ./debs/com.supermamon.deleteforeverswitch_0.0.1_iphoneos-arm.deb
+Size: 6866
+MD5sum: dab4dec98b89e3610fc29af46c8b0394
+SHA1: 7776b9fbba6786ec6b50f1c388b82a0c86fe982f
+SHA256: 7bc9694f6f4d1cb8683199f21432dc5f506535278bce011170ac9eeee4da0535
+Section: Addons (Flipswitch)
+Priority: optional
+Description: DeleteForeverSwitch
+Author: supermamon <at.supermamon@gmail.com>
+Name: DeleteForeverSwitch
+
+Package: com.supermamon.fbenableprofilevideo
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: Raymond Velasquez <at.supermamon@gmail.com>
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/com.supermamon.fbenableprofilevideo_0.0.2_iphoneos-arm.deb
+Size: 3150
+MD5sum: 1e479826ee78390de22eb03347c53764
+SHA1: 750bb4d9254801c62986b7dbe38fb2f5a5ee1caa
+SHA256: 420be3579b29020550808e288ada85079ed17faf269302daf2f4b2585018fa9e
+Section: Tweaks
+Description: Enable Facebook Profile Video!
+Author: Raymond Velasquez <at.supermamon@gmail.com>
+Depiction: https://supermamon.github.io/repo/depictions/?p=com.supermamon.fbenableprofilevideo
+Name: FBEnableProfileVideo
+
+Package: com.supermamon.firstaidkit
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: supermamon <at.supermamon@gmail.com>
+Installed-Size: 144
+Depends: openssh, com.saurik.afc2d, com.officialscheduler.mterminal, com.tigisoftware.filza, com.exile90.icleanerpro, curl, wget
+Filename: ./debs/com.supermamon.firstaidkit_0.0.1_iphoneos-arm.deb
+Size: 2688
+MD5sum: e40e286ead1063c0c27d8ef1567b88bc
+SHA1: de9ccd8d0a71d873f50c1c20473d3ce977564979
+SHA256: 31a0dfee6728c8585d99fdab51c752f5911baaff43d332b96f581b467627eb97
+Section: System
+Description: * First Aid Kit *
+  Installs the following packages:
+  * OpenSSH
+  * Apple File Conduit "2"
+  * MTerminal
+  * Filza
+  * iCleaner Pro
+  * curl
+  * wget
+  These are the first packages I install. Tools I can use in times of trouble.
+Tag: role::hacker
+Author: supermamon <at.supermamon@gmail.com>
+Name: First Aid Kit
+
+Package: com.supermamon.fsreboot
+Version: 1.0.1-4
+Architecture: iphoneos-arm
+Maintainer: Raymond Velasquez <at.supermamon@gmail.com>
+Installed-Size: 140
+Depends: mobilesubstrate, com.a3tweaks.flipswitch
+Filename: ./debs/com.supermamon.fsreboot_1.0.1-4_iphoneos-arm.deb
+Size: 5594
+MD5sum: 1059e9a688b0cd1a72a24033425bf523
+SHA1: ef61d187e786367df6f37a23e47956c230953e5c
+SHA256: b719b5cabf89019a929d2e81a3bb8defe7b47277a4714a445c4ef5e162985684
+Section: Addons (Flipswitch)
+Priority: optional
+Description: A reboot FlipSwitch
+Author: Raymond Velasquez <at.supermamon@gmail.com>
+Name: Reboot Flipswitch
+
+Package: com.supermamon.fsreboot
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: Raymond Velasquez <at.supermamon@gmail.com>
+Installed-Size: 80
+Depends: mobilesubstrate, com.a3tweaks.flipswitch
+Filename: ./debs/com.supermamon.fsreboot_1.0.2_iphoneos-arm.deb
+Size: 6476
+MD5sum: c40187cb5607eb10a515d9727ee04ba3
+SHA1: fa3c743436bdb574ce720ff3ee9ee07e260d8f94
+SHA256: e0c44908764218331e8820474ffd6875974c24a90fe5f4238ca2b82ca7f62b73
+Section: Addons (Flipswitch)
+Priority: optional
+Description: A reboot FlipSwitch
+Author: Raymond Velasquez <at.supermamon@gmail.com>
+Depiction: https://supermamon.github.io/repo/depictions/?p=com.supermamon.fsreboot
+Name: Reboot Flipswitch
+
+Package: com.supermamon.fsreboot
+Version: 1.1.0
+Architecture: iphoneos-arm
+Maintainer: Raymond Velasquez <at.supermamon@gmail.com>
+Installed-Size: 296
+Depends: mobilesubstrate, com.a3tweaks.flipswitch
+Filename: ./debs/com.supermamon.fsreboot_1.1.0_iphoneos-arm.deb
+Size: 12206
+MD5sum: 3b153cb7e9409adf40d1d873df24e588
+SHA1: abd8f2b91a43ff6e1eeba63c819541749c6e9afa
+SHA256: ce0ee914acbda27ec00166861774e21c4f0e319c46a18d3cea009ca766201e73
+Section: Addons (Flipswitch)
+Priority: optional
+Description: A reboot FlipSwitch
+Author: Raymond Velasquez <at.supermamon@gmail.com>
+Depiction: https://supermamon.github.io/repo/depictions/?p=com.supermamon.fsreboot
+Name: Reboot Flipswitch
+
+Package: com.supermamon.fsreboot
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: Raymond Velasquez <at.supermamon@gmail.com>
+Installed-Size: 296
+Depends: mobilesubstrate, com.a3tweaks.flipswitch
+Filename: ./debs/com.supermamon.fsreboot_1.1.1_iphoneos-arm.deb
+Size: 12334
+MD5sum: 3fd71e119465b6c56bcaec8d648bb332
+SHA1: 2ec4909931a52a05624b15e2ad1041b95bbb3678
+SHA256: 1917f2b816b036c4f31550c66e5e4d856962aee4a72562da37a61b078ce05a1e
+Section: Addons (Flipswitch)
+Priority: optional
+Description: A reboot FlipSwitch
+Author: Raymond Velasquez <at.supermamon@gmail.com>
+Depiction: https://supermamon.github.io/repo/depictions/?p=com.supermamon.fsreboot
+Name: Reboot Flipswitch
+
+Package: com.supermamon.lithiumdots
+Version: 1.0.0-1
+Architecture: iphoneos-arm
+Maintainer: Raymond Velasquez <at.supermamon@gmail.com>
+Depends: lithium
+Filename: ./debs/com.supermamon.lithiumdots_1.0.0-1_iphoneos-arm.deb
+Size: 1114
+MD5sum: 2780afeca5759c8b7cc7da3c64a09541
+SHA1: b6a08aeb068308d8a90c321b8d58c73739f73080
+SHA256: f5c01e6352ac37060ee12a151124011c2be9498acf3a91d6c25ef94d5fed5ffc
+Section: Themes (Lithium)
+Description: Dots Theme for Lithium
+Author: Raymond Velasquez <at.supermamon@gmail.com>
+Depiction: https://supermamon.github.io/repo/depictions/?p=com.supermamon.lithiumdots
+Name: Dots for Lithium
+
+Package: com.supermamon.lithiumnitro
+Version: 0.0.1-4
+Architecture: iphoneos-arm
+Maintainer: supermamon <at.supermamon@gmail.com>
+Depends: lithium
+Filename: ./debs/com.supermamon.lithiumnitro_0.0.1-4_iphoneos-arm.deb
+Size: 2716
+MD5sum: 3427ed858f6644b369477dd85512cc62
+SHA1: 327f8b8f657826028d15af703d9b276433a6ad7e
+SHA256: 5ef1cde67a77126099a742dfed199dde3cf625a8526472995581aa934c0e2af2
+Section: Themes (Lithium)
+Description: Lithium Themes by @supermamon
+Author: supermamon <at.supermamon@gmail.com>
+Depiction: https://supermamon.github.io/repo/depictions/index.html?p=com.supermamon.lithiumnitro
+Name: Lithium Nitro
+
+Package: com.supermamon.lithiumnpsimple
+Version: 1.0.0-1
+Architecture: iphoneos-arm
+Maintainer: supermamon <at.supermamon@gmail.com>
+Depends: lithium
+Filename: ./debs/com.supermamon.lithiumnpsimple_1.0.0-1_iphoneos-arm.deb
+Size: 1164
+MD5sum: 85f3a3f274a7ab4ec4b0092b823892ab
+SHA1: c4d31f1160777f91eb03e852933abb5a5ba4ee00
+SHA256: 3040a3c7f7789d4268d5250f7de8aaf03f2c8694252fe34677ccdda39603eac3
+Section: Themes (Lithium)
+Description: Simple Battery Theme for Lithium
+Author: supermamon <at.supermamon@gmail.com>
+Depiction: https://supermamon.github.io/repo/depictions/index.html?p=com.supermamon.lithiumnpsimple
+Name: Simple Battery for Lithium
+
+Package: com.supermamon.locationfixer
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: supermamon <at.supermamon@gmail.com>
+Installed-Size: 57
+Depends: mobilesubstrate, firmware (>=9.2), firmware (<=9.3.3)
+Filename: ./debs/com.supermamon.locationfixer_0.0.1_iphoneos-arm.deb
+Size: 58200
+MD5sum: 201b8c8b515698bbaf75db844259e5b6
+SHA1: 2085119c752401fb4265fd2e7fde440ba23bb970
+SHA256: be77123a632384679175826c2716a8437f468a04f7dc5f9aaaf346eed68dfb24
+Section: Tweaks
+Description: Fix location issue on 9.2-9.3.3 Pangu jailbreak.
+  Fix location issue on 9.2x+ Pangu jailbreak.
+  After installing this tweak, you won't need it anymore and you can uninstall it.
+Author: supermamon <at.supermamon@gmail.com>
+Name: LocationFixer
+
+Package: com.supermamon.martian
+Version: 0.0.1-20+debug
+Architecture: iphoneos-arm
+Maintainer: Raymond Velasquez <at.supermamon@gmail.com>
+Installed-Size: 739
+Depends: mobilesubstrate, firmware(>=8.0)
+Filename: ./debs/com.supermamon.martian_0.0.1-20+debug_iphoneos-arm.deb
+Size: 728600
+MD5sum: 0a6a4d3f0c043944f10eb1d1e6834df5
+SHA1: b8e5ab75f6bea92cf74eee7a16721fe4d3558bd1
+SHA256: 9091f42310316f694c6d3ed0c6cfaf3ca1641f40b56be73fdeb824dfb0603701
+Section: Tweaks
+Description: Reddit Enhancement Tweak
+Author: Raymond Velasquez <at.supermamon@gmail.com>
+Name: Martian
+
+Package: com.supermamon.nctabcolor
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: Raymond Velasquez <at.supermamon@gmail.com>
+Installed-Size: 322
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker, firmware (>= 9.0)
+Filename: ./debs/com.supermamon.nctabcolor_1.0.2_iphoneos-arm.deb
+Size: 24692
+MD5sum: d6610c993d57437a887790552e349013
+SHA1: 3da2b0eee86687ffe513cd7b22eea96cbd9a8ac6
+SHA256: 307b5c4cfa857283a7278fac5d1cdcbe6e59cdcd85c3ca3a6b1dddbf8a855bac
+Section: Tweaks
+Description: Colorize the Notification Center tabs.
+Author: Raymond Velasquez <at.supermamon@gmail.com>
+Depiction: https://supermamon.github.io/repo/depictions/?p=com.supermamon.nctabcolor
+Name: NCTabColor
+
+Package: com.supermamon.nofomo
+Version: 0.0.1~beta
+Architecture: iphoneos-arm
+Maintainer: supermamon <at.supermamon@gmail.com>
+Installed-Size: 136
+Depends: mobilesubstrate, firmware (>=10.0)
+Filename: ./debs/com.supermamon.nofomo_0.0.1~beta_iphoneos-arm.deb
+Size: 2536
+MD5sum: a11cb04a09415f88509738a4e03dd3c3
+SHA1: 7f28652e5d8d3339154efc8d88339f061fafbdb5
+SHA256: 43a3327068f8049438675ee7e02050c5513732cb39a9516ad967bb1b26abe0ac
+Section: Tweaks
+Description: Keep new and updated packages on top of Cydia.
+Author: supermamon <at.supermamon@gmail.com>
+Name: NoFoMO
+
+Package: com.supermamon.potentia
+Version: 0.0.3~beta-16
+Architecture: iphoneos-arm
+Maintainer: supermamon <at.supermamon@gmail.com>
+Installed-Size: 165
+Depends: mobilesubstrate
+Filename: ./debs/com.supermamon.potentia_0.0.3~beta-16_iphoneos-arm.deb
+Size: 172044
+MD5sum: e1b38fd283a0aae0a5b905b9247ea2ec
+SHA1: dc90f94f7dfa4c72d5286d00fdf7a16da761d333
+SHA256: 204745bbc3a35b591fd9c4c1dcd2576da1d84f31d81dfe609dbe464752207af5
+Section: Tweaks
+Description: Change the battery percentage to roman Numerals
+Author: supermamon <at.supermamon@gmail.com>
+Name: Potentia
+
+Package: com.supermamon.potentia
+Version: 0.0.3~beta-24
+Architecture: iphoneos-arm
+Maintainer: supermamon <at.supermamon@gmail.com>
+Installed-Size: 318
+Depends: mobilesubstrate
+Filename: ./debs/com.supermamon.potentia_0.0.3~beta-24_iphoneos-arm.deb
+Size: 308746
+MD5sum: 209b0dadb21f6e5cd0ad174a4009dc4a
+SHA1: 46ed7435f7d881204c36333a41ef70721ec2c780
+SHA256: 228b1104ccab95b223581b77562c070aa866e02471f848eb4ca5dff00c04a0ce
+Section: Tweaks
+Description: Change the battery percentage to roman Numerals
+Author: supermamon <at.supermamon@gmail.com>
+Name: Potentia
+
+Package: com.supermamon.potentia
+Version: 0.0.3~beta-4
+Architecture: iphoneos-arm
+Maintainer: supermamon <at.supermamon@gmail.com>
+Installed-Size: 184
+Depends: mobilesubstrate
+Filename: ./debs/com.supermamon.potentia_0.0.3~beta-4_iphoneos-arm.deb
+Size: 9562
+MD5sum: 8e7677f8b69a69d92b2f392c7950735c
+SHA1: f4121d8e1bde33da75c65b0dd9f3acdfbf14f4e0
+SHA256: 61bcdfe051a1f19439f899e4b1e92e23cfd816beaaa933159268dcd3c69b1658
+Section: Tweaks
+Description: Change the battery percentage to roman Numerals
+Author: supermamon <at.supermamon@gmail.com>
+Name: Potentia
+
+Package: com.supermamon.speedometer4lithium
+Version: 1.0.0-3
+Architecture: iphoneos-arm
+Maintainer: Raymond Velasquez <at.supermamon@gmail.com>
+Depends: lithium
+Filename: ./debs/com.supermamon.speedometer4lithium_1.0.0-3_iphoneos-arm.deb
+Size: 1306
+MD5sum: d2548fcb0e161071f4332197c5b3b284
+SHA1: 658f3147718053f8e4c885886b9d32675c7dddb3
+SHA256: 58e26bac5dd08230d1b467316fd73265318d831c2846b336b5f1bb41bdf2eeb4
+Section: Themes (Lithium)
+Description: Speedometer Theme for Lithium
+Author: Raymond Velasquez <at.supermamon@gmail.com>
+Depiction: https://supermamon.github.io/repo/depictions/?p=com.supermamon.speedometer4lithium
+Name: Speedometer for Lithium
+
+Package: com.supermamon.ss9
+Version: 1.2~beta-11+debug
+Architecture: iphoneos-arm
+Maintainer: Raymond Velasquez <at.supermamon@gmail.com>
+Installed-Size: 886
+Depends: mobilesubstrate, firmware (>= 9.0)
+Filename: ./debs/com.supermamon.ss9_1.2~beta-11+debug_iphoneos-arm.deb
+Size: 846494
+MD5sum: 0f1bed7ad19448763805b94da027781c
+SHA1: ccd6ba5d7ee635357c7c2998ae4b95e547e1a620
+SHA256: be001e2541f181693bf96d7d7a88db08e4a92b39efb2bd5cb3f3b1c7f2369a2e
+Section: Tweaks
+Description: Speed up the iOS 9 switcher.
+  Features
+  * Hide Blurs
+  * Hide Icons
+  * Custom Backround Blur
+  * Custom Springboard Card Blur
+  * Custom App Card Alpha
+  * App Card Downscaling (Experimental)
+Author: Raymond Velasquez <at.supermamon@gmail.com>
+Depiction: https://supermamon.github.io/repo/depictions/?p=com.supermamon.ss9
+Name: Switcher Speedster
+
+Package: com.supermamon.switch.cylinder
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: supermamon <at.supermamon@gmail.com>
+Installed-Size: 144
+Depends: mobilesubstrate, com.a3tweaks.flipswitch
+Filename: ./debs/com.supermamon.switch.cylinder_0.0.1_iphoneos-arm.deb
+Size: 142370
+MD5sum: 25b0a578c7b917abb1700b74b0f171e4
+SHA1: 0691ee39841871ac4ae6ddb3a00d90959e1695b0
+SHA256: 58d8248f699f9892a9b57e4e961c07ab53c843bd826d303b44fa01bb237656e9
+Section: Addons (Flipswitch)
+Priority: optional
+Description: Flipswitch for rweichler's Cylinder tweak!
+Author: supermamon <at.supermamon@gmail.com>
+Name: Cylinder Flipswitch
+
+Package: com.supermamon.tinybarswitch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: supermamon <at.supermamon@gmail.com>
+Installed-Size: 140
+Depends: mobilesubstrate, com.a3tweaks.flipswitch
+Filename: ./debs/com.supermamon.tinybarswitch_0.0.1_iphoneos-arm.deb
+Size: 6310
+MD5sum: 93832a21232afc5d6d65e754fef33b7d
+SHA1: 695ea563e3a49aa3ed5b3edc54af9c021d9a7210
+SHA256: ffc48ea89293ccfa4fcd20fdfe254f23dfd56c5469c41d3a37ee18259a7db959
+Section: Addons (Flipswitch)
+Priority: optional
+Description: TinyBarSwitch
+Author: supermamon <at.supermamon@gmail.com>
+Name: TinyBarSwitch
+
+Package: com.supermamon.tinyplayerswitch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: supermamon <at.supermamon@gmail.com>
+Installed-Size: 140
+Depends: mobilesubstrate, com.a3tweaks.flipswitch
+Filename: ./debs/com.supermamon.tinyplayerswitch_0.0.1_iphoneos-arm.deb
+Size: 6276
+MD5sum: 3159bcb9c6bb533112a072076e690c1e
+SHA1: af6ad0ad00dd5e88df2967855f346efd29c54eb6
+SHA256: 9cd64e5ec25cf221c24223782d269196e9a84e16837084a944501a14df2dbcdf
+Section: Addons (Flipswitch)
+Priority: optional
+Description: TinyPlayerSwitch
+Author: supermamon <at.supermamon@gmail.com>
+Name: TinyPlayerSwitch
+
+Package: com.supermamon.tmtools
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: supermamon <at.supermamon@gmail.com>
+Installed-Size: 156
+Depends: cycript, com.shmoopillc.flexible, socat, net.limneos.classdump-dyld
+Filename: ./debs/com.supermamon.tmtools_0.0.1_iphoneos-arm.deb
+Size: 2806
+MD5sum: 04bf9da1d1a52b66294362d2c699ceb2
+SHA1: a1bfef8030bb936a9dba77455d9ee57eef4e5c98
+SHA256: 953442b52192826fdd134cb8cbacc6d5698c6cadc61cb051c5c7236e1f2b2fcf
+Section: System
+Description: * Tweak Maker Tools *
+  Installs the following packages
+  * Cycript
+  * FLEXible
+  * socat
+  * classdump-dyld
+  Using these for my tweak development. You probably don't need it.
+Tag: role::hacker
+Author: supermamon <at.supermamon@gmail.com>
+Name: Tweak Maker Tools
+
+Package: com.supermamon.wellrounded
+Version: 1.0.0~beta-2
+Architecture: iphoneos-arm
+Maintainer: Raymond Velasquez <at.supermamon@gmail.com>
+Installed-Size: 527
+Depends: mobilesubstrate
+Filename: ./debs/com.supermamon.wellrounded_1.0.0~beta-2_iphoneos-arm.deb
+Size: 145744
+MD5sum: b03f49a2de94ab8e2462f3ca45fd4cd2
+SHA1: 6637396bbece1de031c4baee161272e705cb36a9
+SHA256: 8a3c23b6e387c5c1fe8a0f3e40e398706bc2c1c4d5b59ecd77da007054e1d0c0
+Section: Tweaks
+Description: Sharpen those corners or smoothen them up
+Author: Raymond Velasquez <at.supermamon@gmail.com>
+Depiction: https://supermamon.github.io/repo/depictions/?p=com.supermamon.wellrounded
+Name: WellRounded
+
