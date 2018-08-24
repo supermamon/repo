@@ -461,6 +461,26 @@ Description: Keep new and updated packages on top of Cydia.
 Author: supermamon <at.supermamon@gmail.com>
 Name: NoFoMO
 
+Package: com.supermamon.nofomo-fix
+Version: 0.0.1~beta-3+debug
+Architecture: iphoneos-arm
+Maintainer: supermamon <at.supermamon@gmail.com>
+Installed-Size: 136
+Depends: mobilesubstrate, firmware (>=10.0)
+Conflicts: com.supermamon.nofomo
+Filename: ./debs/com.supermamon.nofomo-fix_0.0.1~beta-3+debug_iphoneos-arm.deb
+Size: 3086
+MD5sum: 3a4a271333149e644da2684d94eb2d92
+SHA1: 97e4bf726571d56822f68532d8ef3df11b8b1712
+SHA256: 372cc6a0dd5350a98d1e801de838b80ebca555110ac425cbf35cba7421de2e2d
+Section: Tweaks
+Description: Undo the bug where NoFoMO sometimes does not remove subscribed status when tweak is uninstalled.
+  Undo the bug where NoFoMO sometimes does not remove subscribed status when tweak is uninstalled.
+  1. Make sure NoFoMO is uninstalled. Installing this should do that.
+  2. After intalling this fix, it may be uninstalled also.
+Author: supermamon <at.supermamon@gmail.com>
+Name: NoFoMO_Fix
+
 Package: com.supermamon.potentia
 Version: 0.0.3~beta-16
 Architecture: iphoneos-arm
