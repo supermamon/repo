@@ -446,16 +446,16 @@ Depiction: https://supermamon.github.io/repo/depictions/?p=com.supermamon.nctabc
 Name: NCTabColor
 
 Package: com.supermamon.nofomo
-Version: 0.0.1~beta
+Version: 0.0.1~beta-9+debug
 Architecture: iphoneos-arm
 Maintainer: supermamon <at.supermamon@gmail.com>
 Installed-Size: 136
 Depends: mobilesubstrate, firmware (>=10.0)
-Filename: ./debs/com.supermamon.nofomo_0.0.1~beta_iphoneos-arm.deb
-Size: 2536
-MD5sum: a11cb04a09415f88509738a4e03dd3c3
-SHA1: 7f28652e5d8d3339154efc8d88339f061fafbdb5
-SHA256: 43a3327068f8049438675ee7e02050c5513732cb39a9516ad967bb1b26abe0ac
+Filename: ./debs/com.supermamon.nofomo_0.0.1~beta-9+debug_iphoneos-arm.deb
+Size: 2990
+MD5sum: cad09b25a3906f2540617c975f9200d5
+SHA1: be847a04dd37f8bded004c16011ff0a749c35ea7
+SHA256: f172298a1bd980f8fe10e7095588ef56c31d4ae886e21284840125922e599d47
 Section: Tweaks
 Description: Keep new and updated packages on top of Cydia.
 Author: supermamon <at.supermamon@gmail.com>
